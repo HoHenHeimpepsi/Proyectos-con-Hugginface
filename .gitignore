@@ -1,8 +1,0 @@
-# created by virtualenv automatically
-etc/
-lib/
-Scripts/
-share/
-CACHEDIR.TAG
-pyvenv.cfg
-os.env
