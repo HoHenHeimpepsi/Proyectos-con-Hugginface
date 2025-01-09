@@ -1,0 +1,7 @@
+etc/
+lib/
+Scripts/
+share/
+CACHEDIR.TAG
+os.env
+pyvenv.cfg
