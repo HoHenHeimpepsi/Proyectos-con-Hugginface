@@ -17,5 +17,5 @@ Esto tomara un tiempo dependiendo de la eficacia del internet que se este usando
 
 DIAGRAMA DE FLUJO. 
 
-![alt text](Diagrama de flujo)
+![Diagrama de flujo](https://github.com/HoHenHeimpepsi/Proyectos-con-Hugginface/blob/main/SwitchModel/Diagrama%20de%20flujo.png)
 
