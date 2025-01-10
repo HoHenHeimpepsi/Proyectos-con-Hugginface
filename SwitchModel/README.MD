@@ -17,5 +17,5 @@ Esto tomara un tiempo dependiendo de la eficacia del internet que se este usando
 
 DIAGRAMA DE FLUJO. 
 
-![alt text](Diagrama de flujo.png)
+![alt text](Diagrama de flujo)
 
