@@ -4,7 +4,8 @@ Las instrucciones de uso del modelo local y un ejemplo de como funcionan se encu
 
 Se instalaran las dependencias correspondientes entregadas en el archivo "requeriments.txt" de la siguiente manera.
 
-```pip install -r requeriments.txt
+```
+pip install -r requeriments.txt
 ```
 
 Tambien para descargar el modelo local en base a las instrucciones presentadas en la pagina de este se usa 
